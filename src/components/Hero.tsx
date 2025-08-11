@@ -1,4 +1,4 @@
-oimport { Button } from "@/components/ui/button";
+import { Button } from "@/components/ui/button";
 import { Link } from "react-router-dom";
 import heroImage from "@src/assets/hero-feast.jpg";
 
