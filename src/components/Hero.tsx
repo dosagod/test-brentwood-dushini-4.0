@@ -1,7 +1,7 @@
 oimport { Button } from "@/components/ui/button";
 import { Link } from "react-router-dom";
 import heroImage from "@/assets/hero-feast.jpg";
-image={hero-feast
+image={hero-feast}
 const Hero = () => {
   return (
     <section className="relative min-h-screen flex items-center justify-center overflow-hidden pt-16">{/* Added pt-16 for header space */}
