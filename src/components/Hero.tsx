@@ -1,6 +1,6 @@
 oimport { Button } from "@/components/ui/button";
 import { Link } from "react-router-dom";
-import heroImage from "@/assets/hero-feast.jpg";
+import heroImage from "@src/assets/hero-feast.jpg";
 
 const Hero = () => {
   return (
