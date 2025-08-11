@@ -1,12 +1,12 @@
 oimport { Button } from "@/components/ui/button";
 import { Link } from "react-router-dom";
 import heroImage from "@/assets/hero-feast.jpg";
-image={hero-feast}
+
 const Hero = () => {
   return (
     <section className="relative min-h-screen flex items-center justify-center overflow-hidden pt-16">{/* Added pt-16 for header space */}
-      {/* Background Image with Overlay */} 
-      <div className="absolute inset-0 z-0 bg-gradient-hero" />
+
+      image={hero-feast}    
       
       {/* Content */}
       <div className="relative z-10 text-center text-white px-4 sm:px-6 lg:px-8 max-w-4xl mx-auto">
